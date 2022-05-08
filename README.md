@@ -1,5 +1,7 @@
 # vue3-qr-code-generator
 
+![Capture](https://github.com/Gitzak/QR-Code-Vue-JS-3/blob/main/vuejs-qr-code-capture.png)
+
 ## Project setup
 ```
 npm install
